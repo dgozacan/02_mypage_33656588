@@ -13,6 +13,7 @@ http.createServer(function(req, res) {
         </head>
         <body>
             <h1>Hello, My name is DOGUCAN GOZACAN</h1>
+            <p>Updated: WEST801 W801.</p>
             <h2>About Me</h2>
             <p>I am learning about Node.js and building my first web app!</p>
         </body>
